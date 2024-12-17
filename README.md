@@ -6,14 +6,14 @@
 <h4>DuoXPy Reborn (DuoXPy Max) &mdash; The Ultimate All-in-One Tool for Duolingo 🛠️</h4>
 
 <p align="left">
-  <a href="#features"><strong>Features 📊</strong></a>
+  <a href="#features"><strong>Features 🛠️</strong></a>
   &bull;
   <a href="#discord"><strong>Discord 🔗</strong></a>
 </p>
 
 ---
 
-# Features 🛠️
+# Features
 
 - **Gem Farm 💎**  
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Discord 🔗
+## Discord 
 
 > **[Join the Discord Server](https://discord.gg/YGkHYWVgqH/)**
 
