@@ -68,19 +68,14 @@
 ## Special thanks to ❤️
 
 ### Developers 👨‍💻
-- **GorouFlex**
-- **Chromeyc**
-- **NotchApple1703**
+- [**GorouFlex**](https://github.com/gorouflex/)
+- [**smhaa**](https://github.com/chromeyc/)
+- [**Notch Apple**](https://github.com/NotchApple1703/)
 - **xiaojia6**
 - **bananasrule_official**
 
-### Supporters 💳
+### Supporters 😍
 - **sen_can**
 - **rfoel**
-
-### Powered By 💡
-- **Python 🐍**
-- **Discloud ☁️**
-- **MongoDB 💳**
 
 ---
