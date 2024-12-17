@@ -2,65 +2,85 @@
   <img align="left" src="https://cdn.discordapp.com/avatars/1278629505094782976/5fca22c427740a105f01954c3d8102c2.png?size=4096" width="20%"/>
 </picture>
 
-<h1>DuoXPy Max</h1>
-<h4>DuoXPy Reborn (DuoXPy Max) &mdash; The Ultimate All-in-One Tool for Duolingo</h4>
+<h1>DuoXPy Max 💥</h1>
+<h4>DuoXPy Reborn (DuoXPy Max) &mdash; The Ultimate All-in-One Tool for Duolingo 🛠️</h4>
 
 <p align="left">
-  <a href="#features"><strong>Features</strong></a>
+  <a href="#features"><strong>Features 📊</strong></a>
   &bull;
-  <a href="#discord"><strong>Discord</strong></a>
+  <a href="#discord"><strong>Discord 🔗</strong></a>
 </p>
 
 ---
 
-# Features
+# Features 🛠️
 
-- **Gem Farm**  
+- **Gem Farm 💎**  
 
-- **Streak Farm**  
+- **Streak Farm 🔥**  
 
-- **XP Farm**  
+- **XP Farm ⚡️**  
 
-- **StreakSaver&trade;**  
+- **StreakSaver&trade; 🔥**  
 
-- **LeagueSaver&trade;**  
+- **LeagueSaver&trade; 🏆**  
 
-- **Quest Completer**  
+- **Quest Completer 🎮**  
 
-- **Ban Check**  
+- **Ban Check 🚫**  
 
-- **Item Unlocker**  
+- **Item Unlocker 🔒**  
 
-- **User Profile & Avatar Fetcher**  
+- **User Profile & Avatar Fetcher 👤**  
 
-- **Block/Unblock Features**  
+- **Block/Unblock Features 🔌**  
 
-- **Follow/Unfollow Features**  
+- **Follow/Unfollow Features 👣**  
 
-- **Leaderboard Info Grabber**  
+- **Leaderboard Info Grabber 🌐**  
 
-- **Heart Remover**  
+- **Heart Remover ❤️‍🔥**  
 
-- **Custom Status Setter**  
+- **Custom Status Setter 📅**  
 
-- **Free Super Duolingo**  
+- **Free Super Duolingo 💚**  
 
-- **Blocker & Blocked List Fetcher**  
+- **Blocker & Blocked List Fetcher 🕵️**  
 
-- **SmartAccess&trade; (Hybrid Mode&trade;)**  
+- **SmartAccess&trade; (Hybrid Mode&trade;) 🤖**  
 
-- **SmartControl**  
+- **SmartControl&trade; 🛠️**  
 
 ---
 
-## Discord
+## Discord 🔗
 
 > **[Join the Discord Server](https://discord.gg/YGkHYWVgqH/)**
 
 ---
 
-## Disclaimer
+## Disclaimer ⚠️
 
 **DuoXPy Max** is an independent project not affiliated with or endorsed by Duolingo. Use responsibly and in accordance with Duolingo's terms of service. Misuse of this tool may result in restrictions or penalties on your account.
+
+---
+
+## Special thanks to ❤️
+
+### Developers 👨‍💻
+- **GorouFlex**
+- **Chromeyc**
+- **NotchApple1703**
+- **xiaojia6**
+- **bananasrule_official**
+
+### Supporters 💳
+- **sen_can**
+- **rfoel**
+
+### Powered By 💡
+- **Python 🐍**
+- **Discloud ☁️**
+- **MongoDB 💳**
 
 ---
