@@ -55,7 +55,7 @@
 
 ## Discord 
 
-> **[Join the Discord Server](https://discord.gg/YGkHYWVgqH/)**
+> **[Join the Discord Server](https://discord.gg/KBzNXRZRdz/)**
 
 ---
 
