@@ -56,7 +56,7 @@
 ## Discord 
 
 > **[Join the Discord Server](https://discord.gg/KBzNXRZRdz/)**
-
+> **[Install the bot](https://discord.com/oauth2/authorize?client_id=1278629505094782976)**
 ---
 
 ## Disclaimer ⚠️
